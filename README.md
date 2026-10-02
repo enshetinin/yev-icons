@@ -26,7 +26,7 @@ dist/           GENERADO con `npm run build`, no se edita a mano
 ### Next.js / React
 
 ```sh
-npm i github:enshetinin/yev-icons#v1.0.0
+npm i "github:enshetinin/yev-icons#v1.0.0"
 ```
 
 ```tsx
@@ -42,7 +42,7 @@ import { CloseIcon, SearchIcon } from 'yev-icons';
 - Aceptan cualquier prop de `<svg>` (`className`, `style`, `strokeWidth`, `ref`…).
 - Si el icono acompaña a un texto visible, déjalo decorativo. Si va solo dentro de un botón, pon `aria-label` en el botón.
 
-Para actualizar un proyecto a una versión nueva, cambia el tag: `npm i github:enshetinin/yev-icons#v1.1.0`.
+Para actualizar un proyecto a una versión nueva, cambia el tag: `npm i "github:enshetinin/yev-icons#v1.1.0"`.
 
 ### HTML sin build
 
