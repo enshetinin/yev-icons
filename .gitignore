@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Editors
+.vscode/
+.idea/
+
+# dist/ is committed on purpose: projects install this repo straight from
+# GitHub and jsDelivr serves files from the repo, so the build output must exist.
